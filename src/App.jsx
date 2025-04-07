@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import Home from "./components/Home";
-import About from "./components/About";
+import About from './components/About';
 import Memories from "./components/memories";
 import Skills from "./components/skill";
 import Sertif from "./components/sertif";
